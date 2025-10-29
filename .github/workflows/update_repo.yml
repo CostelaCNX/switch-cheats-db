@@ -80,18 +80,44 @@ jobs:
             version=$(cat VERSION)
             echo -e "Last updated: **$version**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
             gh release create $version -F changelog.md
-            gh release upload $version ./gbatemp/contents.zip --clobber
-            gh release upload $version ./gbatemp/titles.zip --clobber
+            
+            # Upload GBATemp files (with existence check)
+            if [ -f "./gbatemp/contents.zip" ]; then
+              echo "Uploading GBATemp contents.zip"
+              gh release upload $version ./gbatemp/contents.zip --clobber
+            else
+              echo "Warning: ./gbatemp/contents.zip not found, skipping"
+            fi
+            if [ -f "./gbatemp/titles.zip" ]; then
+              echo "Uploading GBATemp titles.zip"
+              gh release upload $version ./gbatemp/titles.zip --clobber
+            else
+              echo "Warning: ./gbatemp/titles.zip not found, skipping"
+            fi
 
-            mv ./NX-60FPS-RES-GFX-Cheats-main/contents.zip ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip
-            mv ./NX-60FPS-RES-GFX-Cheats-main/titles.zip ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip
-            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip --clobber
-            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip --clobber
+            # Upload HighFPS files (with existence check and renaming)
+            if [ -f "./NX-60FPS-RES-GFX-Cheats-main/contents.zip" ] && [ -f "./NX-60FPS-RES-GFX-Cheats-main/titles.zip" ]; then
+              mv ./NX-60FPS-RES-GFX-Cheats-main/contents.zip ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip
+              mv ./NX-60FPS-RES-GFX-Cheats-main/titles.zip ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip
+              echo "Uploading HighFPS contents and titles"
+              gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip --clobber
+              gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip --clobber
+            else
+              echo "Warning: HighFPS zip files not found, skipping"
+            fi
 
-            mv ./complete/contents.zip ./complete/contents_complete.zip
-            mv ./complete/titles.zip ./complete/titles_complete.zip
-            gh release upload $version ./complete/contents_complete.zip --clobber
-            gh release upload $version ./complete/titles_complete.zip --clobber
+            # Upload complete files (with existence check and renaming)
+            if [ -f "./complete/contents.zip" ] && [ -f "./complete/titles.zip" ]; then
+              mv ./complete/contents.zip ./complete/contents_complete.zip
+              mv ./complete/titles.zip ./complete/titles_complete.zip
+              echo "Uploading complete contents and titles"
+              gh release upload $version ./complete/contents_complete.zip --clobber
+              gh release upload $version ./complete/titles_complete.zip --clobber
+            else
+              echo "Warning: Complete zip files not found, skipping"
+            fi
+            
+            # Always upload VERSION file
             gh release upload $version VERSION --clobber
           else
             echo "Nothing to commit!"

@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import os
+import stat
 from os import mkdir, listdir, path
 from string import hexdigits
 from pathlib import Path
@@ -28,7 +30,7 @@ class ProcessCheats:
         attribution = OrderedDict()
         for f in tid.iterdir():
             if f.suffix.lower() == ".txt":
-                with open(f, "r") as attribution_file:
+                with open(f, "r", encoding="utf-8", errors="ignore") as attribution_file:
                     attribution[f.name] = attribution_file.read()
         return attribution
 
@@ -70,28 +72,39 @@ class ProcessCheats:
                 for sheet in cheats_dir.iterdir():
                     if self.isHexAnd16Char(sheet.stem):
                         out[sheet.stem.upper()] = self.constructBidDict(sheet)
-            except FileNotFoundError:
-                print(f"error: FileNotFoundError {folder_path}")
+            except FileNotFoundError as e:
+                print(f"error: FileNotFoundError {e}")
             attribution = self.getAttribution(tid)
             if attribution:
                 out = self.update_dict(out, {"attribution": attribution})
 
             cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
             try:
-                with open(cheats_file, 'r') as json_file:
+                with open(cheats_file, 'r', encoding="utf-8", errors="ignore") as json_file:
                     out = self.update_dict(out, json.load(json_file))
             except FileNotFoundError:
                 pass
 
             out = OrderedDict(sorted(out.items()))
 
-            with open(cheats_file, 'w') as json_file:
-                json.dump(out, json_file, indent=4)
+            with open(cheats_file, 'w', encoding="utf-8") as json_file:
+                json.dump(out, json_file, indent=4, ensure_ascii=False)
 
     def parseCheats(self):
-        subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])
+        # Make files writable (cross-platform)
+        try:
+            for root, dirs, files in os.walk(self.in_path):
+                for file in files:
+                    file_path = os.path.join(root, file)
+                    try:
+                        os.chmod(file_path, stat.S_IWRITE | stat.S_IREAD)
+                    except (OSError, PermissionError):
+                        pass  # Ignore permission errors
+        except Exception:
+            pass  # If chmod fails, continue anyway
+            
         if not(self.out_path.exists()):
-            self.out_path.mkdir()
+            self.out_path.mkdir(parents=True)
         for tid in self.in_path.iterdir():
             if self.isHexAnd16Char(tid.name):
                 self.createJson(tid)
