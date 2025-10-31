@@ -24,7 +24,7 @@ def version_parser(version):
 class DatabaseInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
-        self.database_version_url = "https://github.com/exploitz86/switch-cheats-db/releases/latest/download/VERSION"
+        self.database_version_url = "https://github.com/CostelaCNX/switch-cheats-db/releases/latest/download/VERSION"
         self.database_version = self.fetch_database_version()
 
     def fetch_database_version(self):
