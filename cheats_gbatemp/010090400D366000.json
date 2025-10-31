@@ -18,7 +18,7 @@
         "[infinite skill]": "[infinite skill]\n04000000 00535144 71000108\n\n"
     },
     "99A367D031056E1F": {
-        "\ufeff{Torchlight II V1.01 Master Code}": "\ufeff{Torchlight II V1.01 Master Code}\n580F0000 023457D8\n580F1000 00000000\n580F1000 00000090\n\n",
+        "﻿{Torchlight II V1.01 Master Code}": "﻿{Torchlight II V1.01 Master Code}\n580F0000 023457D8\n580F1000 00000000\n580F1000 00000090\n\n",
         "[600 Million Gold after Change]": "[600 Million Gold after Change]\n04000000 0046BD38 5290D548\n04000000 0046BD3C 72A4F788\n\n",
         "[HP does not decrease Press left D pad]": "[HP does not decrease Press left D pad]\n80001000\n400E0000 00000000 00000704\n640F01E0 00000000 4B18967F\n400E0000 00000000 00000710\n640F01E0 00000000 4B18967F\n20000000\n\n",
         "[MP does not decrease]": "[MP does not decrease]\n04000000 0047B4D4 1E204020\n04000000 0047B4D8 1E204001\n04000000 0047B4DC D503201F\n04000000 0047B4E0 D503201F\n\n",

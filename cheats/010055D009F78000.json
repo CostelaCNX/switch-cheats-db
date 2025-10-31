@@ -1,6 +1,6 @@
 {
     "19BA39BD3EE8131D": {
-        "\ufeff{Fire Emblem Three Houses V1.0.2}": "\ufeff{Fire Emblem Three Houses V1.0.2}\n580F0000 01A1A6E0\n580F1000 01A1A908\n580F1000 00000000\n\n",
+        "﻿{Fire Emblem Three Houses V1.0.2}": "﻿{Fire Emblem Three Houses V1.0.2}\n580F0000 01A1A6E0\n580F1000 01A1A908\n580F1000 00000000\n\n",
         "[Set Money to Max after change]": "[Set Money to Max after change]\n04000000 003A25B0 1A893128\n\n",
         "[No decrease in Pts]": "[No decrease in Pts]\n04000000 003A5854 6B1F0108\n\n",
         "[Material/Gift no decrease]": "[Material/Gift no decrease]\n04000000 003A2648 4B1F014A\n04000000 003A28D8 4B1F014A\n\n",
@@ -18,8 +18,8 @@
         "[JOB EXP 16x]": "[JOB EXP 16x]\n04000000 003C37CC 0B02114A\n04000000 00393394 0B021129\n\n",
         "[ALL ability point +1 level up(On)]": "[ALL ability point +1 level up(On)]\n04000000 00392C6C F1001D1F\n04000000 00392D68 11000539\n04000000 00392EF4 11000539\n04000000 00392094 F1001F1F\n04000000 00392150 11000668\n04000000 00392350 11000668\n\n",
         "[ALL ability point +1 level up(Off)]": "[ALL ability point +1 level up(Off)]\n04000000 00392C6C F100251F\n04000000 00392D68 1A89D539\n04000000 00392EF4 1A89D539\n04000000 00392094 F100271F\n04000000 00392150 1A93A668\n04000000 00392350 1A93A668\n\n",
-        "[Max Movement Point\uff08L to switch on\uff09]": "[Max Movement Point\uff08L to switch on\uff09]\n80000040\n04000000 000AD564 1A88B100\n20000000\n\n",
-        "[Max Movement Point\uff08R to switch off\uff09]": "[Max Movement Point\uff08R to switch off\uff09]\n80000080\n04000000 000AD564 1A88B2E0\n20000000\n\n",
+        "[Max Movement Point（L to switch on）]": "[Max Movement Point（L to switch on）]\n80000040\n04000000 000AD564 1A88B100\n20000000\n\n",
+        "[Max Movement Point（R to switch off）]": "[Max Movement Point（R to switch off）]\n80000080\n04000000 000AD564 1A88B2E0\n20000000\n\n",
         "[Press ZL Enemy dont move]": "[Press ZL Enemy dont move]\n80000100\n04000000 000AD564 1A9FB3E0\n20000000\n\n",
         "[L+A one hit kill]": "[L+A one hit kill]\n80000041\n580F0000 01A1A7A8\n580F1000 00001A48\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n",
         "[Weapon/Magic durability]": "[Weapon/Magic durability]\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000006\n300E0000 00000005\n620F0000 00000000 00000063\n780F0000 00000004\n310E0000 20000000\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00001414\n780F0000 00000002\n310E0000 20000000\n\n",
@@ -104,7 +104,7 @@
         "[Infinite Qualification Exam]": "[Infinite Qualification Exam]\n580F0000 01B12190\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 0000024C\n310E0000 20000000\n\n",
         "[Highlight unit - L-Stick click move again v1.2.0]": "[Highlight unit - L-Stick click move again v1.2.0]\n80000010\n58000000 01ACA288\n58001000 00021068\n78000000 000000D6\n61000000 00000000 00000003\n20000000\n\n",
         "[All Playable Characters Recruited (v1.2.0)]": "[All Playable Characters Recruited (v1.2.0)]\n580F0000 01B12190\n780F0000 000006F0\n300E0000 00000028\n610F0000 00000000 00000003\n780F0000 0000024C\n310E0000\n\n",
-        "[Exp \u00d764]": "[Exp \u00d764]\n04000000 00411428 0B011929\n\n",
+        "[Exp ×64]": "[Exp ×64]\n04000000 00411428 0B011929\n\n",
         "[Exp x1024]": "[Exp x1024]\n04000000 00411428 0B012929\n\n"
     },
     "F0142D706FD2323B": {
@@ -120,7 +120,7 @@
         "[All Characters - Current Class Max XP]": "[All Characters - Current Class Max XP]\n580F0000 01ABBF60\n780F0000 0000068C\n300E0000 0000003C\n620F0000 00000000 000000C8\n780F0000 0000024C\n310E0000\n\n",
         "[Max Movement Point L to switch on]": "[Max Movement Point L to switch on]\n80000040\n04000000 000AFCC4 1A88B100\n20000000\n\n",
         "[Max Movement Point R to switch off]": "[Max Movement Point R to switch off]\n80000080\n04000000 000AFCC4 1A88B2E0\n20000000\n\n",
-        "[Exp \u00d764]": "[Exp \u00d764]\n04000000 00411428 0B011929\n\n",
+        "[Exp ×64]": "[Exp ×64]\n04000000 00411428 0B011929\n\n",
         "[Exp x1024]": "[Exp x1024]\n04000000 00411428 0B012929\n\n"
     },
     "attribution": {
