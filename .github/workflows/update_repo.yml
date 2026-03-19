@@ -53,7 +53,7 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v4
         with:
-          ref: 'main'
+          ref: 'master'
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: setup python
