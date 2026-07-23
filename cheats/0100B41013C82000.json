@@ -13,7 +13,8 @@
         "[auto win 1 off]": "[auto win 1 off]\n04000000 017E1C98 1E2E1009\n\n",
         "[auto win 1 on]": "[auto win 1 on]\n04000000 017E1C98 1E27F009\n\n",
         "[always stay first 1on ]": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
-        "[always stay first 1 off]": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n"
+        "[always stay first 1 off]": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n",
+        "[always stay first 1on]": "[always stay first 1on]\n04000000 0181B060 D65F03C0\n\n"
     },
     "attribution": {
         "Cruis n Blast ver 1.0.7 by xtatu.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"

@@ -12,7 +12,8 @@
     "E717DF86CE42CD4D": {
         "[invicible Y pad off hit enermy & get itens ]": "[invicible Y pad off hit enermy & get itens ]\n04000000 000CE1D0 D65F03C0\n80000008\n04000000 000CE1D0 a9bd57f6\n20000000\n\n",
         "[inf get items L pad on]": "[inf get items L pad on]\n80000040\n04000000 001E8460 D65F03C0\n20000000\n\n",
-        "[inf get items R pad off]": "[inf get items R pad off]\n80000080\n04000000 001E8460 a9bd57f6\n20000000\n\n"
+        "[inf get items R pad off]": "[inf get items R pad off]\n80000080\n04000000 001E8460 a9bd57f6\n20000000\n\n",
+        "[invicible Y pad off hit enermy & get itens]": "[invicible Y pad off hit enermy & get itens]\n04000000 000CE1D0 D65F03C0\n80000008\n04000000 000CE1D0 a9bd57f6\n20000000\n\n"
     },
     "attribution": {
         "Goblin Sword ver 1.0.3 by jhmiller 1.0.0 by ZIT and ver 1.0.2 by xtatu.txt": ""

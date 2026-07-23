@@ -10,7 +10,10 @@
         "[hitanywhere some enemies]": "[hitanywhere some enemies]\n04000000 002C9580 D65F03C0\n\n",
         "[ 1p invicible X pad special work hit+Walk through Walls]": "[ 1p invicible X pad special work hit+Walk through Walls]\n04000000 002CEB20 D65F03C0\n\n",
         "[1p invicible special work hit+Walk through Walls off ]": "[1p invicible special work hit+Walk through Walls off ]\n04000000 002CEB20 a9bc5ff8\n\n",
-        "[ 1p invicible X pad special work hit+Walk through Walls (hold L)]": "[ 1p invicible X pad special work hit+Walk through Walls (hold L)]\n04000000 002CEB20 a9bc5ff8\n80000040\n04000000 002CEB20 D65F03C0\n20000000\n\n"
+        "[ 1p invicible X pad special work hit+Walk through Walls (hold L)]": "[ 1p invicible X pad special work hit+Walk through Walls (hold L)]\n04000000 002CEB20 a9bc5ff8\n80000040\n04000000 002CEB20 D65F03C0\n20000000\n\n",
+        "[1p invicible X pad special work hit+Walk through Walls]": "[1p invicible X pad special work hit+Walk through Walls]\n04000000 002CEB20 D65F03C0\n\n",
+        "[1p invicible special work hit+Walk through Walls off]": "[1p invicible special work hit+Walk through Walls off]\n04000000 002CEB20 a9bc5ff8\n\n",
+        "[1p invicible X pad special work hit+Walk through Walls (hold L)]": "[1p invicible X pad special work hit+Walk through Walls (hold L)]\n04000000 002CEB20 a9bc5ff8\n80000040\n04000000 002CEB20 D65F03C0\n20000000\n\n"
     },
     "A9C78517999A1B5A": {
         "[Invincible (On)]": "[Invincible (On)]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003CF\n610F0000 00000000 000000C5\n\n",

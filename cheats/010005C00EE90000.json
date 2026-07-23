@@ -38,7 +38,10 @@
         "[Cloth Scrap 99]": "[Cloth Scrap 99]\n04000000 00ed81a2 00000063\n\n",
         "[Junk 99]": "[Junk 99]\n04000000 00ed8136 00000063\n\n",
         "[Bent Screw 99]": "[Bent Screw 99]\n04000000 00ed8232 00000063\n\n",
-        "[Dry Wood 99]": "[Dry Wood 99]\n04000000 00ed7ef6 00000063\n\n"
+        "[Dry Wood 99]": "[Dry Wood 99]\n04000000 00ed7ef6 00000063\n\n",
+        "[Kortes 999 Inf hp Character]": "[Kortes 999 Inf hp Character]\n04000000 00edd0c4 000003E7\n04000000 00edd0bc 000003E7\n04000000 00edd1f4 000003E7\n\n",
+        "[999 Inf MP Kortes]": "[999 Inf MP Kortes]\n04000000 00edd1f8 000003E7\n04000000 00edd0c0 000003E7\n\n",
+        "[999 Inf MP Jurie Crotzea]": "[999 Inf MP Jurie Crotzea]\n04000000 00edd718 000003E7\n04000000 00edd5e0 000003E7\n\n"
     },
     "attribution": {
         "Atelier Shallie Alchemists of the Dusk Sea DX ver 1.0.0 by matias3ds.txt": ""

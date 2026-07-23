@@ -7,6 +7,7 @@
         "[ohk]": "[ohk]\n04000000 048F01D0 1E2703E0\n\n",
         "[For info]": "[For info]\n20000000\n\n",
         "[score]": "[score]\n04000000 007F3494 BD429801\n\n",
-        "[ end]": "[ end]\n20000001\n\n"
+        "[ end]": "[ end]\n20000001\n\n",
+        "[end]": "[end]\n20000001\n\n"
     }
 }

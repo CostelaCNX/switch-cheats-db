@@ -30,6 +30,7 @@
         "[Inf Sword Energy]": "[Inf Sword Energy]\n040A0000 021073EC 1F000500\n\n",
         "[Inf HP]": "[Inf HP]\n040A0000 021DFE80 2A0903E8\n\n",
         "[Invincible]": "[Invincible]\n040A0000 02143F28 52800048\n\n",
-        "[--SectionEnd:Battle--]": "[--SectionEnd:Battle--]\n00000000 00000000 00000000\n\n"
+        "[--SectionEnd:Battle--]": "[--SectionEnd:Battle--]\n00000000 00000000 00000000\n\n",
+        "[Remove DOFBlur]": "[Remove DOFBlur]\n040A0000 033032CC 6C426F4E\n040A0000 033032D0 53007275\n\n"
     }
 }

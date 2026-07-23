@@ -42,7 +42,8 @@
         "[No CPU Enhanced Moves ]": "[No CPU Enhanced Moves ]\n580F0000 08BC26A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
         "[No CPU Fatal Blows Might not Work]": "[No CPU Fatal Blows Might not Work]\n580F0000 08BC26A8\n580F0000 00000158\n780F0000 000003E4\n640F0000 00000000 00000001\n\n",
         "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n"
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
+        "[No CPU Enhanced Moves]": "[No CPU Enhanced Moves]\n580F0000 08BC26A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n"
     },
     "253CE7FF39EA6DD8": {
         "[Inf Round Time]": "[Inf Round Time]\n580F0000 0A0F6028\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
@@ -90,7 +91,8 @@
         "[CPU No Enhanced or Interactions @Smoker1]": "[CPU No Enhanced or Interactions @Smoker1]\n580F0000 0800C6C8\n780F0000 00000194\n640F0000 00000000 00000000\n580F0000 0800C6C8\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
         "[CPU 1Hit Death @Smoker1]": "[CPU 1Hit Death @Smoker1]\n580F0000 08701FE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 3A000000\n\n",
         "[CPU 1 Hit Death Press R3 @Smoker1]": "[CPU 1 Hit Death Press R3 @Smoker1]\n80000020\n580F0000 08701FE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
-        "[Unlock Collection Chars Stages OFF DaBlackDeath]": "[Unlock Collection Chars Stages OFF DaBlackDeath]\n04000000 02562D60 2A1303E0\n\n"
+        "[Unlock Collection Chars Stages OFF DaBlackDeath]": "[Unlock Collection Chars Stages OFF DaBlackDeath]\n04000000 02562D60 2A1303E0\n\n",
+        "[Unlock Collection Chars Stages ON @DaBlackDeath]": "[Unlock Collection Chars Stages ON @DaBlackDeath]\n04000000 02562D60 52800020\n\n"
     },
     "4F7AB1A3EEFC7EB2": {
         "[Unlock Collection Chars Stages ON]": "[Unlock Collection Chars Stages ON]\n04000000 025A614C 52800020\n\n",
@@ -163,7 +165,8 @@
         "{Unlock Collection Chars Stages ON BlackDeath}": "{Unlock Collection Chars Stages ON BlackDeath}\n04000000 025A6060 52800020\n\n",
         "[Easy Fatalities ON - BlackDeath]": "[Easy Fatalities ON - BlackDeath]\n04000000 024A3668 52800020\n04000000 024A36A8 52800020\n\n",
         "[Easy Fatalities OFF - BlackDeath]": "[Easy Fatalities OFF - BlackDeath]\n04000000 024A3668 2A1F03E0\n04000000 024A36A8 B9447660\n\n",
-        "[Unlock Collection + Chars + Stages (Off) - BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - BlackDeath]\n04000000 025A6060 2A1303E0\n\n"
+        "[Unlock Collection + Chars + Stages (Off) - BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - BlackDeath]\n04000000 025A6060 2A1303E0\n\n",
+        "[Unlock Collection Chars Stages ON BlackDeath]": "[Unlock Collection Chars Stages ON BlackDeath]\n04000000 025A6060 52800020\n\n"
     },
     "A18F8879B9A93F3B": {
         "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 0249F804 52800020\n\n",
@@ -245,6 +248,6 @@
     },
     "attribution": {
         "Mortal Kombat 11 Mortal Kombat 11 ver v1.0.26 by patjenova ver v1.0.21 and 1.0.22 1.0.17 and 1.0.24 and 1.0.26 and  by DaBlackDeath Smoker1 by eco95 ver 1.10.15A by patjenova ver 1.0.10 by Smoker1.txt": "",
-        "Mortal Kombat 11.txt": "By Hazerou\n1.) This cheat will force Fatal Blow, Krushing Blow, Fatalities etc that are 576p Docked by default to render at 720p Docked. We can't up the resolution above 720p because it just glitches the screen.\n\n2.) Use ⁠reverse-nx-rt if you want to get 720p for Handheld.\n\n3.) I did try to force 60 FPS on Fatal Blow, Krushing Blow, Fatalities etc, but it doubles the game speed and it glitches the screen... \n"
+        "Mortal Kombat 11.txt": "By Hazerou\n1.) This cheat will force Fatal Blow, Krushing Blow, Fatalities etc that are 576p Docked by default to render at 720p Docked. We can't up the resolution above 720p because it just glitches the screen.\n\n2.) Use \u2060reverse-nx-rt if you want to get 720p for Handheld.\n\n3.) I did try to force 60 FPS on Fatal Blow, Krushing Blow, Fatalities etc, but it doubles the game speed and it glitches the screen... \n"
     }
 }

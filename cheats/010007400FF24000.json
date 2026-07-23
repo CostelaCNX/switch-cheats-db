@@ -17,7 +17,8 @@
         "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}\n04000000 0135FA64 D503201F\n04000000 0135FAC4 D503201F\n\n",
         "[Disable Level Check]": "[Disable Level Check]\n04000000 01354DF4 52800FE0\n\n",
         "[Everyone One-Shot Kill - R to Enable, L to Disable]": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 004D3DE0 D503201F\n20000000\n80000040\n04000000 004D3DE0 BD000260\n20000000\n\n",
-        "[13# Max Badass Tokens]": "[13# Max Badass Tokens]\n580F0000 03E3D248\n580F1000 00001328\n580F1000 00000030\n780F0000 0000122C\n640F0000 00000000 00000063\n\n"
+        "[13# Max Badass Tokens]": "[13# Max Badass Tokens]\n580F0000 03E3D248\n580F1000 00001328\n580F1000 00000030\n780F0000 0000122C\n640F0000 00000000 00000063\n\n",
+        "[Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server]": "[Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server]\n04000000 0135FA64 D503201F\n04000000 0135FAC4 D503201F\n\n"
     },
     "attribution": {
         "Borderlands The Pre-sequel ver1.0.1 by patjenova and reclaimerjhon.txt": "caution\ncan some problems"

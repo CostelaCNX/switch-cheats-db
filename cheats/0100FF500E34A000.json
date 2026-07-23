@@ -202,7 +202,8 @@
         "[Handheld RRS 113.33% (616p)]": "[Handheld RRS 113.33% (616p)]\n580F0000 01B35EC0\n580F1000 00000990\n780F0000 00000010\n680F1000 3F911111 3F911111\n680F0000 3F911111 3F911111\n\n",
         "[Handheld RRS 133.33% (720p)]": "[Handheld RRS 133.33% (720p)]\n580F0000 01B35EC0\n580F1000 00000990\n780F0000 00000010\n680F1000 3FAAAAAB 3FAAAAAB\n680F0000 3FAAAAAB 3FAAAAAB\n\n",
         "[Default Docked RRS 100% (720p)]": "[Default Docked RRS 100% (720p)]\n580F0000 01B35EC0\n580F1000 00000990\n780F0000 00000010\n680F1000 3F800000 3F800000\n680F0000 3F800000 3F800000\n\n",
-        "[Disable RRS Lock (Re-Enable D.R.S.)]": "[Disable RRS Lock (Re-Enable D.R.S.)]\n580F0000 01B35EC0\n580F1000 00000990\n780F0000 00000010\n680F1000 3F800000 3F800000\n680F0000 3F333333 3F333333\n\n"
+        "[Disable RRS Lock (Re-Enable D.R.S.)]": "[Disable RRS Lock (Re-Enable D.R.S.)]\n580F0000 01B35EC0\n580F1000 00000990\n780F0000 00000010\n680F1000 3F800000 3F800000\n680F0000 3F333333 3F333333\n\n",
+        "[Xenoblade Chronicles v1.1.2]": "[Xenoblade Chronicles v1.1.2]\n581F0000 28Dcc538\n780F0000 0015A3CC\n\n"
     },
     "attribution": {
         "xenoblade chronicles definitive edition ver 1.0.0 and 1.1.1 by Patjenova and DaBlackDeath and Falo ver 1.1.2 by gamerjin.txt": "note: this will reset any skills you did upgrade",

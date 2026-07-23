@@ -1,7 +1,7 @@
 {
     "C03C9F6A862543F9": {
-        "﻿[Gold max]": "﻿[Gold max]\n041F0000 046C890D 3B9AC9FF\n\n",
-        "[Wood x99999‬‬]": "[Wood x99999‬‬]\n041F0000 046C890E 0001869F\n\n",
+        "\ufeff[Gold max]": "\ufeff[Gold max]\n041F0000 046C890D 3B9AC9FF\n\n",
+        "[Wood x99999\u202c\u202c]": "[Wood x99999\u202c\u202c]\n041F0000 046C890E 0001869F\n\n",
         "[Stone x99999]": "[Stone x99999]\n041F0000 046C890F 0001869F\n\n",
         "[Inf. HP]": "[Inf. HP]\n041F0000 30F4A030 00009999\n\n",
         "[Inf. Money]": "[Inf. Money]\n04000000 003D2E18 0098967F\n\n",
@@ -17,7 +17,8 @@
         "[Decrease Day (L+Down)]": "[Decrease Day (L+Down)]\n80008040\n14110000 2DD871EC 00000001\n541F0000 2DD871EC\n740F0000 FFFFFFFF\nA4F00410 2DD871EC\n20000000\n20000000\n\n",
         "[Increase Hour (L+Right)]": "[Increase Hour (L+Right)]\n80004040\n14130000 2DD871E8 00000017\n541F0000 2DD871E8\n740F0000 00000001\nA4F00410 2DD871E8\n20000000\n20000000\n\n",
         "[Decrease Hour (L+Left)]": "[Decrease Hour (L+Left)]\n80001040\n14110000 2DD871E8 00000000\n541F0000 2DD871E8\n740F0000 FFFFFFFF\nA4F00410 2DD871E8\n20000000\n20000000\n\n",
-        "[Cycle Item - Bag Slot 1 (R+Up/Down)]": "[Cycle Item - Bag Slot 1 (R+Up/Down)]\n14150000 2dda39ac 00000005\n04100000 2dda39ac 00000000\n541F0000 2dda399c\n740F0000 00000001\nA4F00410 2dda399c\n20000000\n80002080\n14130000 2dda399c 00000C53\n541F0000 2dda39ac\n740F0000 00000001\nA4F00410 2dda39ac\n20000000\n14150000 2dda39ac FFFFFFFB\n04100000 2dda39ac 00000000\n541F0000 2dda399c\n740F0000 FFFFFFFF\nA4F00410 2dda399c\n20000000\n80008080\n14110000 2dda399c 00000801\n541F0000 2dda39ac\n740F0000 FFFFFFFF\nA4F00410 2dda39ac\n20000000\n\n"
+        "[Cycle Item - Bag Slot 1 (R+Up/Down)]": "[Cycle Item - Bag Slot 1 (R+Up/Down)]\n14150000 2dda39ac 00000005\n04100000 2dda39ac 00000000\n541F0000 2dda399c\n740F0000 00000001\nA4F00410 2dda399c\n20000000\n80002080\n14130000 2dda399c 00000C53\n541F0000 2dda39ac\n740F0000 00000001\nA4F00410 2dda39ac\n20000000\n14150000 2dda39ac FFFFFFFB\n04100000 2dda39ac 00000000\n541F0000 2dda399c\n740F0000 FFFFFFFF\nA4F00410 2dda399c\n20000000\n80008080\n14110000 2dda399c 00000801\n541F0000 2dda39ac\n740F0000 FFFFFFFF\nA4F00410 2dda39ac\n20000000\n\n",
+        "[\ufeff[Gold max]": "[\ufeff[Gold max]\n\ufeff[Gold max]\n041F0000 046C890D 3B9AC9FF\n\n"
     },
     "attribution": {
         "Rune Factory 4 Special ver 1.0.1 by silien3.txt": "Before going to a Mach disable codes. And you must be first at the beginning. \n\n(NOTE: Ensure there is a SINGLE item, not a stack of items, in the first slot of your bag in order to use this code)"

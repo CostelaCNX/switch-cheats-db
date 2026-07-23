@@ -27,6 +27,7 @@
         "[Have Angler Key]": "[Have Angler Key]\n400F0000 00000000 00000B12\n610F01C0 00000000 00000001\n\n",
         "[Have Face Key]": "[Have Face Key]\n400F0000 00000000 00000B13\n610F01C0 00000000 00000001\n\n",
         "[Have Bird Key]": "[Have Bird Key]\n400F0000 00000000 00000B14\n610F01C0 00000000 00000001\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
+        "[- The Legend of Zelda: Link's Awakening -]": "[- The Legend of Zelda: Link's Awakening -]\n580C0000 007F0C30\n580C1000 00000010\n580C1000 00000A28\n580C1000 000003B8\n58010000 007F46C0\n58011000 00000020\n58011000 000000C0\n58011000 00002188\n78010000 0000008C\n\n"
     }
 }

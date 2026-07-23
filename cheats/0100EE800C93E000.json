@@ -11,7 +11,8 @@
         "[One Hit Kill (Hold L,R,ZL,ZR )]": "[One Hit Kill (Hold L,R,ZL,ZR )]\n800003C0\n580F0000 01A22E18\n780F0000 00000B04\n640F0000 00000000 00000001\n20000000\n\n",
         "[(HOLD ZR) SlowMo]": "[(HOLD ZR) SlowMo]\n580F0000 00E236C0\n780F0000 00000F14\n640F0000 00000000 00000001\n20000000\n80000200\n580F0000 00E236C0\n780F0000 00000F14\n640F0000 00000000 00000002\n20000000\n\n",
         "[(HOLD L3) P1 Unlimited]": "[(HOLD L3) P1 Unlimited]\n04000000 01A21E94 00000000\n20000000\n80000010\n04000000 01A21E94 00000001\n20000000\n\n",
-        "[(HOLD R3) P2 Unlimited]": "[(HOLD R3) P2 Unlimited]\n04000000 01A21EB4 00000000\n20000000\n80000010\n04000000 01A21EB4 00000001\n20000000\n\n"
+        "[(HOLD R3) P2 Unlimited]": "[(HOLD R3) P2 Unlimited]\n04000000 01A21EB4 00000000\n20000000\n80000010\n04000000 01A21EB4 00000001\n20000000\n\n",
+        "[Inf Burst]": "[Inf Burst]\n580F0000 01A22E10\n780F0000 00005D94\n640F0000 00000000 000186A0\n\n"
     },
     "attribution": {
         "Blazblue Centralfiction Special Edition 1.0.1 by uzimakiuchiha and ZIT and hazerou.txt": "1.) According to the Game, The only Characters that can enter Unlimited Mode are;\nRagna=The=Bloodedge\nNine=The=Phantom\nIzanami"

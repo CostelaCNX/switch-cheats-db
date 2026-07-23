@@ -8,7 +8,8 @@
         "{Disable Anti Cheat Message}": "{Disable Anti Cheat Message}\n04000000 02749FD0 D65F03C0\n\n",
         "[01# Invulnerable]": "[01# Invulnerable]\n04000000 01708C10 D65F03C0\n\n",
         "[02# Inf Ammo]": "[02# Inf Ammo]\n04000000 02100BCC 51000108\n\n",
-        "[1p invicible]": "[1p invicible]\n04000000 017090F8 1E283000\n\n"
+        "[1p invicible]": "[1p invicible]\n04000000 017090F8 1E283000\n\n",
+        "[Disable Anti Cheat Message]": "[Disable Anti Cheat Message]\n04000000 02749FD0 D65F03C0\n\n"
     },
     "attribution": {
         "Rising Hell v1.01 by DablackDeath and xtatu ver 1.0.0 by Dsrules.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"

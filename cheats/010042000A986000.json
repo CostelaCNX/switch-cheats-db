@@ -99,7 +99,8 @@
         "[Ultimallet]": "[Ultimallet]\n620A0000 00000000 00000140\n\n",
         "[Wrecking Ball]": "[Wrecking Ball]\n620A0000 00000000 00000575\n\n",
         "[Debug Block - Freshwater]": "[Debug Block - Freshwater]\n620A0000 00000000 00000316\n\n",
-        "[Debug Block - Lava]": "[Debug Block - Lava]\n620A0000 00000000 0000031B\n\n"
+        "[Debug Block - Lava]": "[Debug Block - Lava]\n620A0000 00000000 0000031B\n\n",
+        "[Mastercode} - Inventory]": "[Mastercode} - Inventory]\n580A0000 013B5B18\n780A0000 00000060\n581A1000 00000000\n780A0000 00B88840\n\n"
     },
     "F311F4B1E6F32BE0": {
         "[Max Attack]": "[Max Attack]\n580E0000 013DC3F8\n581E1000 00000048\n780E0000 00001010\n620E0000 00000000 0000270F\n\n",

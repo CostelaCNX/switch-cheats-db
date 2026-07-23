@@ -70,7 +70,9 @@
         "[no move cpu]": "[no move cpu]\n04000000 002D9500 D65F03C0\n\n",
         "[no move cpuoff ]": "[no move cpuoff ]\n04000000 002D9500 D10603FF\n\n",
         "[all boss no move attack]": "[all boss no move attack]\n04000000 01536DA0 D65F03C0\n\n",
-        "[all boss no move attack off ]": "[all boss no move attack off ]\n04000000 01536DA0 D102C3FF\n\n"
+        "[all boss no move attack off ]": "[all boss no move attack off ]\n04000000 01536DA0 D102C3FF\n\n",
+        "[no move cpuoff]": "[no move cpuoff]\n04000000 002D9500 D10603FF\n\n",
+        "[all boss no move attack off]": "[all boss no move attack off]\n04000000 01536DA0 D102C3FF\n\n"
     },
     "B9B166DF1DB90BAF": {
         "[120 FPS (Emulator)]": "[120 FPS (Emulator)]\n04000000 0523B004 0000001E\n580F0000 06D41430\n580F1000 00000010\n780F0000 00000F14\n640F0000 00000000 00000000\n\n",

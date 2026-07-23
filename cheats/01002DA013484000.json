@@ -56,7 +56,18 @@
         "[Docked 720p]": "[Docked 720p]\n08000000 013A916C 000002D0 00000500\n\n",
         "[Docked 810p]": "[Docked 810p]\n08000000 013A916C 0000032A 000005A0\n\n",
         "[Docked 900p]": "[Docked 900p]\n08000000 013A916C 00000384 00000640\n\n",
-        "[Docked 1080p]": "[Docked 1080p]\n08000000 013A916C 00000438 00000780\n\n"
+        "[Docked 1080p]": "[Docked 1080p]\n08000000 013A916C 00000438 00000780\n\n",
+        "[o Wooden Shield]": "[o Wooden Shield]\n04000000 05AEB51C 00200074\n\n",
+        "[o Banded Shield]": "[o Banded Shield]\n04000000 05AEB51C 00200075\n\n",
+        "[o Braced Shield]": "[o Braced Shield]\n04000000 05AEB51C 00200076\n\n",
+        "[o Iron Shield]": "[o Iron Shield]\n04000000 05AEB51C 00200077\n\n",
+        "[o Reinforced Shield]": "[o Reinforced Shield]\n04000000 05AEB51C 00200078\n\n",
+        "[o Fortified Shield]": "[o Fortified Shield]\n04000000 05AEB51C 00300079\n\n",
+        "[o Sacred Shield]": "[o Sacred Shield]\n04000000 05AEB51C 0020007A\n\n",
+        "[o Divine Shield]": "[o Divine Shield]\n04000000 05AEB51C 0020007B\n\n",
+        "[o Goddess Shield]": "[o Goddess Shield]\n04000000 05AEB51C 0020007C\n\n",
+        "[o Hylian Shield]": "[o Hylian Shield]\n04000000 05AEB51C 0030007D\n\n",
+        "[*Speed R]": "[*Speed R]\n80000080\n04000000 06244B68 42880000\n20000000\n\n"
     },
     "D824D4B1BBD45D03": {
         "[Infinite Stamina]": "[Infinite Stamina]\n04000000 06244B58 000F4240\n\n",
@@ -105,7 +116,18 @@
         "[*Speed R ]": "[*Speed R ]\n80000080\n04000000 06244B68 42880000\n20000000\n\n",
         "[get 9999 ruby+ get itens max on]": "[get 9999 ruby+ get itens max on]\n04000000 00B808A8 D65F03C0\n\n",
         "[get 9999 ruby+ get itens max off]": "[get 9999 ruby+ get itens max off]\n04000000 00B808A8 A9BE4FF4\n\n",
-        "[Moonjump L+A]": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n\n"
+        "[Moonjump L+A]": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n\n",
+        "[o Wooden Shield]": "[o Wooden Shield]\n04000000 05AEB51C 00200074\n\n",
+        "[o Banded Shield]": "[o Banded Shield]\n04000000 05AEB51C 00200075\n\n",
+        "[o Braced Shield]": "[o Braced Shield]\n04000000 05AEB51C 00200076\n\n",
+        "[o Iron Shield]": "[o Iron Shield]\n04000000 05AEB51C 00200077\n\n",
+        "[o Reinforced Shield]": "[o Reinforced Shield]\n04000000 05AEB51C 00200078\n\n",
+        "[o Fortified Shield]": "[o Fortified Shield]\n04000000 05AEB51C 00300079\n\n",
+        "[o Sacred Shield]": "[o Sacred Shield]\n04000000 05AEB51C 0020007A\n\n",
+        "[o Divine Shield]": "[o Divine Shield]\n04000000 05AEB51C 0020007B\n\n",
+        "[o Goddess Shield]": "[o Goddess Shield]\n04000000 05AEB51C 0020007C\n\n",
+        "[o Hylian Shield]": "[o Hylian Shield]\n04000000 05AEB51C 0030007D\n\n",
+        "[*Speed R]": "[*Speed R]\n80000080\n04000000 06244B68 42880000\n20000000\n\n"
     },
     "attribution": {
         "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81.txt": "",

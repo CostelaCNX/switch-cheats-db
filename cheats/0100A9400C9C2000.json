@@ -151,7 +151,9 @@
         "[Tsubasa Stage Rank 20 activate the cheat and go into battle]": "[Tsubasa Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A33BC 0000270F\n\n",
         "[Touma Stage Rank 20 activate the cheat and go into battle]": "[Touma Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A371C 0000270F\n\n",
         "[Kiria Stage Rank 20 activate the cheat and go into battle]": "[Kiria Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A3A7C 0000270F\n\n",
-        "[ITSUKI RESISTANCE dsrules Gamerjin]": "[ITSUKI RESISTANCE dsrules Gamerjin]\n041B0000 794A3034 00070007\n041B0000 794A3038 00070007\n041B0000 794A303C 00070007\n041B0000 794A3040 00070007\n041B0000 794A3044 00070007\n\n"
+        "[ITSUKI RESISTANCE dsrules Gamerjin]": "[ITSUKI RESISTANCE dsrules Gamerjin]\n041B0000 794A3034 00070007\n041B0000 794A3038 00070007\n041B0000 794A303C 00070007\n041B0000 794A3040 00070007\n041B0000 794A3044 00070007\n\n",
+        "[Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode]": "[Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode]\n300E0000 000012C0\n01100000 794AC3AE 00000014\n78000000 00000002\n310E0000\n20000000\n\n",
+        "[Items 0 X]": "[Items 0 X]\n300E0000 000012C0\n01100000 794AC3AE 00000000\n78000000 00000002\n310E0000\n20000000\n\n"
     },
     "attribution": {
         "Tokyo Mirage Sessions #FE Encore (Asia) 91wii shrede by skettle.txt": "Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode ."

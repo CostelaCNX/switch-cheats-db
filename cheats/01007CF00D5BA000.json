@@ -39,7 +39,8 @@
         "[Devil Hunter Rank S]": "[Devil Hunter Rank S]\n01000000 00d772ef 00000000\n\n",
         "[Infinite Double Jump]": "[Infinite Double Jump]\n01000000 00d83c32 00000001\n\n",
         "[99999 Red Orbs Mission]": "[99999 Red Orbs Mission]\n04000000 00d81ebc 0001869f\n\n",
-        "[Have All Equipment]": "[Have All Equipment]\n02000000 00d83600 0000070f\n08000000 00d81ece 01010101 01010101\n01000000 00d81ed6 00000001\n\n"
+        "[Have All Equipment]": "[Have All Equipment]\n02000000 00d83600 0000070f\n08000000 00d81ece 01010101 01010101\n01000000 00d81ed6 00000001\n\n",
+        "[Walk Through Walls ( ZL )]": "[Walk Through Walls ( ZL )]\n580F0000 00d820c8\n780F1000 0000000c\n610F0000 00000000 00000010\n80000100\n610F0000 00000000 00000000\n20000000\n\n"
     },
     "attribution": {
         "Devil May Cry 2 By optanic.txt": "",

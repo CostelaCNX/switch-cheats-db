@@ -115,7 +115,9 @@
         "[Epicure Nut 99]": "[Epicure Nut 99]\n04000000 00e1088a 00000063\n\n",
         "[Soft Fur 99]": "[Soft Fur 99]\n04000000 00e0f882 00000063\n\n",
         "[Gold Meat 99]": "[Gold Meat 99]\n04000000 00e10962 00000063\n\n",
-        "[Golden Apple 99]": "[Golden Apple 99]\n04000000 00e1093e 00000063\n\n"
+        "[Golden Apple 99]": "[Golden Apple 99]\n04000000 00e1093e 00000063\n\n",
+        "[Purify Block 99]": "[Purify Block 99]\n04000000 00e0ff66 00000063\n\n",
+        "[Cloud Financier 99]": "[Cloud Financier 99]\n04000000 00e0fd92 00000063\n\n"
     },
     "attribution": {
         "Atelier Escha & Logy Alchemists of the Dusk Sky DX ver 1.0.0 by matias3ds.txt": ""
