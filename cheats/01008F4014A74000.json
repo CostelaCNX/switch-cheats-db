@@ -26,7 +26,7 @@
         "[Increase Ammo (On)]": "[Increase Ammo (On)]\n040C0000 00039DDC 3100056B\n\n",
         "[Increase Ammo (Off)]": "[Increase Ammo (Off)]\n040C0000 00039DDC 7100056B\n\n",
         "[Set ! Timer to 0]": "[Set ! Timer to 0]\n040C0000 0A30FB30 00000000\n\n",
-        "[\u2192 Level Up]": "[\u2192 Level Up]\n80004000\n540C0000 09E8339C\nC043C400 00000012\nA4C00400 09E83390\n20000000\n\n",
+        "[→ Level Up]": "[→ Level Up]\n80004000\n540C0000 09E8339C\nC043C400 00000012\nA4C00400 09E83390\n20000000\n\n",
         "[/!\\ Unlock Item in Story First /!\\]": "[/!\\ Unlock Item in Story First /!\\]\n00000000 00000000 00000000\n\n",
         "[- Inf. Ammo Cheats -]": "[- Inf. Ammo Cheats -]\n00000000 00000000 00000000\n\n",
         "[Bullets]": "[Bullets]\n040C0000 09E834A0 00000001\n040C0000 09E838C8 0000000A\n\n",
