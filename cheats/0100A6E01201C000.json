@@ -103,7 +103,7 @@
         "[30 FPS v2]": "[30 FPS v2]\n580F0000 0501ABF0\n580F1000 000000B0\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Supraland ver 1.0.0.1 by arismendy64. and ZiT.txt": "\u203bActivate the code after loading.",
+        "Supraland ver 1.0.0.1 by arismendy64. and ZiT.txt": "※Activate the code after loading.",
         "Supraland.txt": "By Hazerou\n1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\nDon't activate them at the same time!\n\n\n2.) [Motion Blur] & [Bloom] for use with scaling option in the in-game settings.\n\n3.) [Fully Load Textures ASAP] not included because it freezes the game.\n\n4.) Some GFX Codes has no Function/Effect to the Game.\n"
     }
 }
