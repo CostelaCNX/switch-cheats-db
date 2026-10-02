@@ -14,9 +14,9 @@
         "[All Pokmon Shiny (Disable)]": "[All Pokmon Shiny (Disable)]\n04000000 007399f4 540002e0\n\n"
     },
     "5831EC64D6B696FD": {
-        "[All Pok\u00e9mon Shiny (Hold B) (Handheld Only)]": "[All Pok\u00e9mon Shiny (Hold B) (Handheld Only)]\n04000000 007398C4 540002e0\n80000002\n04000000 007398C4 14000027\n20000000\n\n",
-        "[All Pok\u00e9mon Shiny Always]": "[All Pok\u00e9mon Shiny Always]\n04000000 007398C4 14000027\n\n",
-        "[Normal Pok\u00e9mon Shiny Odds]": "[Normal Pok\u00e9mon Shiny Odds]\n04000000 007398C4 540002e0\n\n"
+        "[All Pokémon Shiny (Hold B) (Handheld Only)]": "[All Pokémon Shiny (Hold B) (Handheld Only)]\n04000000 007398C4 540002e0\n80000002\n04000000 007398C4 14000027\n20000000\n\n",
+        "[All Pokémon Shiny Always]": "[All Pokémon Shiny Always]\n04000000 007398C4 14000027\n\n",
+        "[Normal Pokémon Shiny Odds]": "[Normal Pokémon Shiny Odds]\n04000000 007398C4 540002e0\n\n"
     },
     "attribution": {
         "Pokemon lets go Eevee v 1.00 by AnalogManStoned.txt": "",
