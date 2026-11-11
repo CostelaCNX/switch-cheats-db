@@ -40,6 +40,6 @@
         "[2P Inf.Bombs]": "[2P Inf.Bombs]\n580F0000 025BB488 \n580F1000 00000008 \n780F0000 0001D29A \n610F0000 00000000 000000FF\n\n",
         "[2P Always Multi Homing Napalm]": "[2P Always Multi Homing Napalm]\n580F0000 025BB488 \n580F1000 00000008 \n780F0000 0001D290 \n610F0000 00000000 00000023\n\n",
         "[2P Always Hyper Arm]": "[2P Always Hyper Arm]\n580F0000 025BB488 \n580F1000 00000008 \n780F0000 0001D292 \n610F0000 00000000 0000000E\n\n",
-        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+        "[Original Code by ネオ•グランゾン]": "[Original Code by ネオ•グランゾン]\n20000000\n\n"
     }
 }
