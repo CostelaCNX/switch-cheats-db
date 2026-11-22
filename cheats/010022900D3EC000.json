@@ -130,19 +130,19 @@
         "[Cheats Updated by Snakes of Cheats Hunter Discord]": "[Cheats Updated by Snakes of Cheats Hunter Discord]\n580F0000 01594000\n\n"
     },
     "A2241F15842996D7": {
-        "[\u8d44\u91d1\u53d8\u52a8\u540eMax]": "[\u8d44\u91d1\u53d8\u52a8\u540eMax]\n04000000 00129C40 1A89B128\n\n",
+        "[资金变动后Max]": "[资金变动后Max]\n04000000 00129C40 1A89B128\n\n",
         "[EN]": "[EN]\n04000000 004225B4 1A80B008\n\n",
-        "[MS\u5f00\u53d1\u7b49\u7ea720]": "[MS\u5f00\u53d1\u7b49\u7ea720]\n04000000 0075BF00 52800295\n04000000 0075BF04 39004295\n04000000 0075BF08 79C02295\n04000000 0075BF0C D65F03C0\n04000000 00161AF4 9417E903\n\n",
-        "[MS\u5f00\u53d1\u7b49\u7ea7\u8fd8\u539f]": "[MS\u5f00\u53d1\u7b49\u7ea7\u8fd8\u539f]\n04000000 00161AF4 79C02295\n\n",
+        "[MS开发等级20]": "[MS开发等级20]\n04000000 0075BF00 52800295\n04000000 0075BF04 39004295\n04000000 0075BF08 79C02295\n04000000 0075BF0C D65F03C0\n04000000 00161AF4 9417E903\n\n",
+        "[MS开发等级还原]": "[MS开发等级还原]\n04000000 00161AF4 79C02295\n\n",
         "[Max after character ability]": "[Max after character ability]\n04000000 0075BF10 52800C53\n04000000 0075BF14 79000513\n04000000 0075BF18 D65F03C0\n04000000 00119D68 9419086A\n\n",
-        "[\u5f3a\u6c14\u72b6\u6001\u4e0d\u4f1a\u6d88\u5931]": "[\u5f3a\u6c14\u72b6\u6001\u4e0d\u4f1a\u6d88\u5931]\n04000000 00422D6C 79046660\n\n",
-        "[SCORE8\u500d]": "[SCORE8\u500d]\n04000000 0038A0D0 0B080EC8\n04000000 0038A428 0B010D4A\n\n",
-        "[\u673a\u5e08\u7ecf\u9a8c\u503c16\u500d]": "[\u673a\u5e08\u7ecf\u9a8c\u503c16\u500d]\n04000000 002F4A0C 0B0113F4\n\n",
-        "[\u673a\u4f53\u7ecf\u9a8c\u503c16\u500d]": "[\u673a\u4f53\u7ecf\u9a8c\u503c16\u500d]\n04000000 002F7514 0B0113F4\n\n",
-        "[\u51fb\u5760\u65708\u500d]": "[\u51fb\u5760\u65708\u500d]\n04000000 00355254 0B190D01\n\n",
+        "[强气状态不会消失]": "[强气状态不会消失]\n04000000 00422D6C 79046660\n\n",
+        "[SCORE8倍]": "[SCORE8倍]\n04000000 0038A0D0 0B080EC8\n04000000 0038A428 0B010D4A\n\n",
+        "[机师经验值16倍]": "[机师经验值16倍]\n04000000 002F4A0C 0B0113F4\n\n",
+        "[机体经验值16倍]": "[机体经验值16倍]\n04000000 002F7514 0B0113F4\n\n",
+        "[击坠数8倍]": "[击坠数8倍]\n04000000 00355254 0B190D01\n\n",
         "[MP max after value change ZL on]": "[MP max after value change ZL on]\n80000100\n04000000 00422D50 1A80B008\n20000000\n\n",
         "[MP max after value change ZR off]": "[MP max after value change ZR off]\n80000200\n04000000 00422D50 1A89B008\n20000000\n\n",
-        "[\u654c\u65e0\u6cd5\u8fd8\u51fb\u65f6\u6309\u4f4fL\u952e\u653b\u51fbHP\u6e05\u96f6]": "[\u654c\u65e0\u6cd5\u8fd8\u51fb\u65f6\u6309\u4f4fL\u952e\u653b\u51fbHP\u6e05\u96f6]\n04000000 004224E0 B9022668\n80000040\n04000000 004224E0 B902267F\n20000000\n\n"
+        "[敌无法还击时按住L键攻击HP清零]": "[敌无法还击时按住L键攻击HP清零]\n04000000 004224E0 B9022668\n80000040\n04000000 004224E0 B902267F\n20000000\n\n"
     },
     "attribution": {
         "SD Gundam G Century FireWire V1.63 by Sanekes13x1.02 translated by serenity42.txt": "",
